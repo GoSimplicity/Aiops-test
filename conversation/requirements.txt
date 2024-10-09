@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+grpcio
+grpcio-tools
+aiohttp
+pydantic
+pydantic-settings
+loguru
+kubernetes
